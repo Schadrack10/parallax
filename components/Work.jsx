@@ -26,7 +26,7 @@ const Work = () => {
       </Typography>
       {/* grids */}
       <Grid container sx={{ padding: "10px 80px" }}>
-        <Grid item md={3} sm={6} sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6} sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p1.jpg"
             alt="image"
@@ -35,7 +35,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6}  sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6}  sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p2.jpg"
             alt="image"
@@ -44,7 +44,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6}  sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6}  sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p3.jpg"
             alt="image"
@@ -53,7 +53,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6}  sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6}  sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p4.jpg"
             alt="image"
@@ -64,8 +64,8 @@ const Work = () => {
         </Grid>
       </Grid>
       {/* grids */}
-      <Grid container sx={{ padding: "20px 80px" }}>
-        <Grid item md={3} sm={6}  sx={{ height: "250px", padding: "10px" }}>
+      <Grid container sx={{ padding: "0px 80px" }}>
+        <Grid item md={3} sm={6}  sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p7.jpg"
             alt="image"
@@ -74,7 +74,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6}  sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6}  sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p6.jpg"
             alt="image"
@@ -83,7 +83,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6} sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6} sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p1.jpg"
             alt="image"
@@ -92,7 +92,7 @@ const Work = () => {
             style={{ objectFit: "cover" }}
           />
         </Grid>
-        <Grid item md={3} sm={6} sx={{ height: "250px", padding: "10px" }}>
+        <Grid item md={3} sm={6} sx={{ height: "200px", padding: "10px" }}>
           <img
             src="p2.jpg"
             alt="image"
