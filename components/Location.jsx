@@ -20,7 +20,7 @@ const Location = () => {
           ></Box>
         </Grid>
         <Grid item md={6} sx={{ border: "1px solid red" }}>
-          <Box sx={{height:"100px"}>
+          <Box sx={{height:"100px",border:"1px solid red"}}>
           <Typography variant="h6"  >Where i work</Typography>
 
           </Box>
