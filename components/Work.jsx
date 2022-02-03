@@ -8,7 +8,7 @@ const Work = () => {
   return (
     <Box
       sx={{
-        height: "auto",
+        height: "100vh",
         padding: "10px",
         width: "100%",
       }}
